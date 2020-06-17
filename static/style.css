@@ -526,3 +526,10 @@ img {
   font-size: 160px;
   font-weight: 700;
 }
+
+/* Custom code by Floyd Berndsen
+------------------------------------------------- */
+.homepage-segment {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
